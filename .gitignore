@@ -27,4 +27,7 @@ build/
 
 # OS files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# HubSpot config file
+hubspot.config.yml
